@@ -1,0 +1,51 @@
+.company_logo {
+    background-image: url("../images/thecompanylogo.png");
+    height: 80px;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.list-group-item {
+    background: #fff !important;
+    border-color: #fff !important;
+}
+
+.thecourierprice {
+    color: red;
+    display: block;
+    margin-top: 10px;
+}
+
+.thecouriername {
+    color: black !important;
+    margin-bottom: 10px;
+}
+
+.thecouriertimeframe {
+    color: #7b7878 !important;
+    font-size: 13px;
+}
+
+.thecourierparent {
+    border: 1px solid #7b7878;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.thecourierbutton {
+    background: red;
+    padding: 10px 20px;
+    display: block;
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.thecourierbutton:hover {
+    color: white;
+    text-decoration: none;
+}
